@@ -63,14 +63,13 @@ No  Nama Barang     2001    2002    2003
 ---
 
 ## 🧠 Konsep yang Digunakan
-```yml
-| Konsep                 | Deskripsi                                      |
-|------------------------|-----------------------------------------------|
-| Array 2 Dimensi        | Menyimpan data penjualan berdasarkan barang & tahun |
-| Perulangan `for`       | Mengisi dan mencetak data                     |
-| `getline()`            | Input string termasuk spasi                   |
-| `setw()` + `setiosflags()` | Format output kolom                       |
-```
+
+| Konsep                     | Deskripsi                                           |
+|----------------------------|-----------------------------------------------------|
+| Array 2 Dimensi            | Menyimpan data penjualan berdasarkan barang & tahun |
+| Perulangan `for`           | Mengisi dan mencetak data                           |
+| `getline()`                | Input string termasuk spasi                         |
+| `setw()` + `setiosflags()` | Format output kolom                                 |
 
 ---
 
